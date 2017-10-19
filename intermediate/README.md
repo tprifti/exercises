@@ -1,5 +1,4 @@
-## C programming exercises 
-    - Exercises are organized in 3 levels (beginner, intermediate, advanced);
+## C programming exercises - intermediate    
 
 ## Instructions
 
