@@ -1,5 +1,6 @@
 ## C programming exercises
-    ### beginner level
+
+### beginner level
 
 ## Instructions
 

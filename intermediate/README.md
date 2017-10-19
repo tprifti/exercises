@@ -1,5 +1,6 @@
 ## C programming exercises
-    ### Intermediate level
+
+### Intermediate level
 
 ## Instructions
 
