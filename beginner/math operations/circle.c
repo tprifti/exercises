@@ -3,6 +3,11 @@
  */
 
 #include <stdio.h>
+#include <math.h>
+
+
+#define bool _Bool
+
 
 int main()
 {
@@ -18,8 +23,8 @@ int main()
      * Calculate diameter, circumference and area
      */
     diameter = 2 * radius;
-    circumference = 2 * 3.14 * radius;
-    area = 3.14 * (radius * radius);
+    circumference = 2 * M_PI * radius;
+    area = M_PI * (radius * radius);
 
     /*
      * Print all results
