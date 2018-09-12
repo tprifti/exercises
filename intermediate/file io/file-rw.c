@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//@todo : check https://stackoverflow.com/a/9606112
 int main()
 {
     unsigned int len_max = 128;
@@ -34,8 +35,8 @@ int main()
 		input[i] = '\0';
 
 		fprintf(file, "%s", input);
-		free(input);
 
+        free(input);
         fclose(file);
 		input = NULL;
 
